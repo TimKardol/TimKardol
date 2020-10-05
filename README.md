@@ -2,7 +2,7 @@
 
 I am just a student trying to learn how to code!
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TimKardol?count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TimKardol?&count_private=true)
 
 <!--
 **TimKardol/TimKardol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
