@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome!
+
+I am just a student trying to learn how to code!
 
 <!--
 **TimKardol/TimKardol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
