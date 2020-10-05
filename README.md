@@ -1,6 +1,6 @@
 # Welcome!
 
-#### I am just a student trying to learn how to code!
+### I am just a student trying to learn how to code!
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TimKardol&?count_private=true)
 
