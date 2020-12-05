@@ -2,12 +2,9 @@
 
 ### I am just a student trying to learn how to code!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimKardol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TimKardol&?count_private=true)">
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimKardol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TimKardol&?count_private=true)
 <!--
 **TimKardol/TimKardol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
